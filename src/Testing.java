@@ -2,7 +2,7 @@ public class Testing {
 
     public static void main(String[] args) {
 
-        System.out.println("This is a main testing class");
+        System.out.println("Main branch change");
 
     }
 }
